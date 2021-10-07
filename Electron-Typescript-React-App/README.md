@@ -1,6 +1,6 @@
 ## A minimal Electron React template
 
-# Features
+### Features
   - Webpack
   - Path Aliases
   - React
