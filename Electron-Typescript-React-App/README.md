@@ -5,5 +5,5 @@ Status: Working ✅
   - Path Aliases
   - React
   - Typescript
-  - Sass
+  - Sass integration
   - Electron/forge
